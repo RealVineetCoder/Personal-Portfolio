@@ -15,15 +15,15 @@ const heroSection = () => {
 
         <div className="pt-4">
           <p>
-            Hey everyone! 🎉 I'm a cheerful MCA student who fell in love
+            Hey everyone! 🎉 I&apos;m a cheerful MCA student who fell in love
             with coding in Class
           </p>
           <p>
             11. Currently exploring the world of web
-            development. 🚀 It's a fun journey, and
+            development. 🚀 It&apos;s a fun journey, and
           </p>
           <p>
-            I can't wait to see what's next! 🌟
+            I can&apos;t wait to see what&apos;s next! 🌟
             #CodingEnthusiast
           </p>
         </div>
